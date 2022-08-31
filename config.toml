@@ -1,6 +1,6 @@
-baseURL = 'https://ami-null.github.io/'
-languageCode = 'en-us'
-title = "Ami_NULL's geekpages"
+baseURL = "https://ami-null.github.io/"
+languageCode = "en-us"
+title = "Ami_NULL's geekpage"
 theme = "papermod"
 
 paginate = "10"

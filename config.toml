@@ -1,7 +1,9 @@
-baseURL = "https://ami-null.github.io"
+baseURL = "https://ami-null.github.io/"
 languageCode = "en-us"
 title = "Ami_NULL's geekpage"
 theme = "papermod"
+
+publishDir = "docs"
 
 paginate = "10"
 enableEmoji = "true"
@@ -19,7 +21,7 @@ math = "true"
 #ShowToc = "true"
 #TocOpen = "true"
 
-assets.disableFingerprinting = true
+#assets.disableFingerprinting = true
 
 [params.homeInfoParams]
 Title = "Ami_NULL's geekpages"

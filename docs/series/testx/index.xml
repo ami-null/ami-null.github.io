@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>testx on Ami_NULL&#39;s geekpage</title>
+    <link>https://ami-null.github.io/series/testx/</link>
+    <description>Recent content in testx on Ami_NULL&#39;s geekpage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ami-null.github.io/series/testx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://ami-null.github.io/posts/new/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ami-null.github.io/posts/new/</guid>
+      <description>Some stuff here.
+Python test for i in range(10): print(i) params: # defaultTheme: light # defaultTheme: dark defaultTheme: auto # to switch between dark or light according to browser theme </description>
+    </item>
+    
+    <item>
+      <title>test post</title>
+      <link>https://ami-null.github.io/posts/test/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ami-null.github.io/posts/test/</guid>
+      <description>Testing test test $$ \frac{a}{b} $$
+😆</description>
+    </item>
+    
+  </channel>
+</rss>

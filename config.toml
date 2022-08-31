@@ -3,12 +3,16 @@ languageCode = "en-us"
 title = "Ami_NULL's geekpages"
 theme = "papermod"
 
+copyright = "&copy; 2022 - https://ami-null.github.io/ - [CC  BY-NC-SA 4.0 ](https://creativecommons.org/licenses/by-nc-sa/4.0/) "
+
 publishDir = "docs"
 
 paginate = "10"
 enableEmoji = "true"
 enableInlineShortcodes = "true"
 
+
+disqusShortname = 'ami-null'
 
 [params]
 defaultTheme = "dark"
@@ -17,11 +21,10 @@ ShowPostNavLinks = "true"
 ShowShareButtons = "true"
 ShowCodeCopyButtons = "true"
 math = "true"
-#comments = "true"
+comments = "true"
 #ShowToc = "true"
 #TocOpen = "true"
 
-#assets.disableFingerprinting = true
 
 [params.homeInfoParams]
 Title = "Ami_NULL's geekpages"

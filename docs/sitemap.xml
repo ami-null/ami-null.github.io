@@ -2,44 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ami-null.github.io/</loc>
+    <loc>https://ami-null.github.io/geekpages/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/categories/</loc>
+    <loc>https://ami-null.github.io/geekpages/categories/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/posts/new/</loc>
+    <loc>https://ami-null.github.io/geekpages/posts/new/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/categories/new/</loc>
+    <loc>https://ami-null.github.io/geekpages/categories/new/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/tags/newer/</loc>
+    <loc>https://ami-null.github.io/geekpages/tags/newer/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/posts/</loc>
+    <loc>https://ami-null.github.io/geekpages/posts/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/series/</loc>
+    <loc>https://ami-null.github.io/geekpages/series/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/tags/</loc>
+    <loc>https://ami-null.github.io/geekpages/tags/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/categories/test/</loc>
+    <loc>https://ami-null.github.io/geekpages/categories/test/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/posts/test/</loc>
+    <loc>https://ami-null.github.io/geekpages/posts/test/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/tags/testing/</loc>
+    <loc>https://ami-null.github.io/geekpages/tags/testing/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/series/testx/</loc>
+    <loc>https://ami-null.github.io/geekpages/series/testx/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ami-null.github.io/archives/</loc>
+    <loc>https://ami-null.github.io/geekpages/archives/</loc>
   </url><url>
-    <loc>https://ami-null.github.io/search/</loc>
+    <loc>https://ami-null.github.io/geekpages/search/</loc>
   </url>
 </urlset>

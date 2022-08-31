@@ -1,6 +1,6 @@
-baseURL = "https://ami-null.github.io/"
+baseURL = "https://ami-null.github.io/geekpages"
 languageCode = "en-us"
-title = "Ami_NULL's geekpage"
+title = "Ami_NULL's geekpages"
 theme = "papermod"
 
 publishDir = "docs"

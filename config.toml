@@ -1,3 +1,69 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ami-null.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Ami_NULL's geekpages"
+theme = "papermod"
+
+paginate = "10"
+enableEmoji = "true"
+enableInlineShortcodes = "true"
+
+[params]
+defaultTheme = "dark"
+ShowBreadCrumbs = "true"
+ShowPostNavLinks = "true"
+ShowShareButtons = "true"
+ShowCodeCopyButtons = "true"
+math = "true"
+#comments = "true"
+#ShowToc = "true"
+#TocOpen = "true"
+
+[params.homeInfoParams]
+Title = "Ami_NULL's geekpages"
+Content = "Hello, I am Shazid, and this are my geekpages."
+
+[[params.SocialIcons]]
+name = "github"
+url = "https://github.com/ami-null"
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+#author = "author"
+series = "series"
+
+[menu]
+[[menu.main]]
+identifier = "categories"
+name = "Categories"
+url = "/categories/"
+weight = "10"
+
+[[menu.main]]
+identifier = "series"
+name = "Series"
+url = "/series"
+weight = 15
+
+
+[[menu.main]]
+identifier = "tags"
+name = "Tags"
+url = "/tags/"
+weight = "25"
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives"
+weight = "30"
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = "40"

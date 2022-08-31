@@ -1,4 +1,4 @@
-baseURL = "https://ami-null.github.io/geekpages"
+baseURL = "https://ami-null.github.io"
 languageCode = "en-us"
 title = "Ami_NULL's geekpages"
 theme = "papermod"

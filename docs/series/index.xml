@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Series on Ami_NULL&#39;s geekpages</title>
-    <link>https://ami-null.github.io/geekpages/series/</link>
+    <link>https://ami-null.github.io/series/</link>
     <description>Recent content in Series on Ami_NULL&#39;s geekpages</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ami-null.github.io/geekpages/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 31 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://ami-null.github.io/series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>testx</title>
-      <link>https://ami-null.github.io/geekpages/series/testx/</link>
+      <link>https://ami-null.github.io/series/testx/</link>
       <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ami-null.github.io/geekpages/series/testx/</guid>
+      <guid>https://ami-null.github.io/series/testx/</guid>
       <description></description>
     </item>
     

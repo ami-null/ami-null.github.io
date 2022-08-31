@@ -1,3 +1,6 @@
 [submodule "themes/papermod"]
 	path = themes/papermod
 	url = git@github.com:ami-null/hugo-PaperMod.git
+[submodule "public"]
+	path = public
+	url = git@github.com:ami-null/ami-null.github.io.git
